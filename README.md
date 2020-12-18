@@ -1,0 +1,2 @@
+- 🔭 I’m currently working on [container](https://aws.amazon.com/ecs) at Amazon Web Services
+- 😄 Pronouns: [he/him](https://pronoun.is/he/him)
